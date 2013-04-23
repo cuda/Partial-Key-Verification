@@ -1,0 +1,9 @@
+bin
+obj
+_ReSharper*
+*.bak
+*.XML
+*.suo
+*.user
+*.dotcover
+*.nupkg

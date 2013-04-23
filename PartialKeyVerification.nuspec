@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Partial.Key.Verification</id>
+        <version>1.0</version>
+        <title>Partial Key Verification</title>
+        <authors>Marcus Cuda</authors>
+        <owners>cuda</owners>
+        <licenseUrl>https://github.com/cuda/Partial-Key-Verification/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/cuda/Partial-Key-Verification</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>.NET wrapper around the Federal Reserve Economic Data (FRED) API</description>
+        <releaseNotes />
+    </metadata>
+    <files>
+        <file src="PartialKeyTests\bin\Release\PartialKeyVerification.dll" target="lib\portable-net4+sl4+wp7\PartialKeyVerification.dll" />
+    </files>
+</package>

@@ -9,7 +9,7 @@
         <licenseUrl>https://github.com/cuda/Partial-Key-Verification/blob/master/LICENSE.txt</licenseUrl>
         <projectUrl>https://github.com/cuda/Partial-Key-Verification</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>.NET wrapper around the Federal Reserve Economic Data (FRED) API</description>
+        <description>A Partial Key Verification (PKV) portable library that generates software license keys using the PKV technique.</description>
         <releaseNotes />
     </metadata>
     <files>

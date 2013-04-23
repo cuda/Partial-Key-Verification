@@ -1,10 +1,10 @@
 Partial Key Verification Library
 ================================
 Partial Key Verification (PKV) is a software licensing key technique that breaks 
-a product key into multiple subkeys and with each version of your software you 
+a product key into multiple subkeys. With each version of your software, you 
 check a different subset of the subkeys.  The beauty of this approach is that a 
 cracker cannot generate a complete keygen.  They might be able to generate one 
-for a given version, but it won't work on different release (assuming you check
+for a given version, but it won't work on a different release (assuming you check
 a different subkey).  Another nice feature of PVK is that the key contains an 
 embedded serial number.  This allows you to easily check the key against a list 
 of stolen/posted/refunded keys. For more information about the PKV technique, 

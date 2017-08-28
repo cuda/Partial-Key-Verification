@@ -15,7 +15,7 @@ Instead of using 8-bit subkeys, I used 32-bit subkeys (just check one key instea
 of four). My version also Base-32 (5-bit) encodes the keys to shrink the key size 
 by 20%, and allows you to specify a different hash algorithm for each subkey.
 
-This is a .NET 4.0 portable library and distributed under the Simplified BSD license.
+This is a .NET Standard 1.0 library and distributed under the Simplified BSD license.
 
 NuGet
 -----
